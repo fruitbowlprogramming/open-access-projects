@@ -1,0 +1,11 @@
+
+  
+print ("Welcome to <custom-name-here>")
+username=input("Enter Username: ")
+if username == ("enterausernamehere"):
+    print ("Username Accepted.")
+else: print ("Username Rejected.") ,exit()
+password=input("Enter Password: ")
+if password == ("enterapasswordhere"):
+    print ("Password Accepted. Welcome, " + username)
+else: print ("Password Rejected.") ,exit()
